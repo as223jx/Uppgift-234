@@ -1,0 +1,50 @@
+Vision: Den Glade Piraten
+
+Introduktion
+Den Glade Piraten är en båtklubb i behov av ett system som kan förenkla deras arbete med att fördela och spara information gällande bland annat bokad båtplats, medlemsregister och viktiga datum.  Medlemmarna är missnöjda med fördelningen av båtplatser, och kassören har svårt att administrera medlemsavgifterna genom enbart kundernas kvitton. 
+Dålig administration av medlemsavgifter riskerar att sätta klubben i konkurs, och kundernas missnöjdhet av båtplatser resulterar i byten av platser vilket leder till säkerhetsproblem.
+De olika delarna sker manuellt, och denna mängd information skulle behöva ett digitalt system för att fungera säkert.
+
+Användargrupper
+Medlemmar
+Båtintresserade medlemmarna som samlas i klubben för att träffa andra med samma intresse. Vill ha ett enkelt system som hjälper att fördela båtplatserna bättre. Främst äldre män, naturälskare.
+Kassör
+Anställd, äldre kvinna med låg till grundläggande datorvana.
+Sekreterare
+Anställd, grundläggande datorvana och bra på planering.
+
+Intressenter
+Hanna Haglund
+Kassör, hanterar medlemsavgifterna. hanna@piraten.nu, 0704 56 89 11
+Palle Kuling
+Sekreterare, ansvarar för bokning av båtplatser. palle@piraten.nu, 0707 89 78 55
+Nationella båtregistret
+Samlar uppgifter om registrerade båtar.
+Räddningstjänsten
+Räddningstjänsten får problem med säkerhet när medlemmarna byter båtplatser sinsemellan.
+
+Liknande system
+Lega Online
+•	Onlinehantering av kundbokning, fakturor och påminnelser.
+•	Lättåtkomlig via dator, telefon och surfplatta.
+•	Slipper installationer.
+•	Stöd för streckkoder.
+•	Kräver internetuppkoppling.
+
+
+Baskrav
+BK 1
+En tjänst ska utvecklas som hjälper att fördela båtplatserna bättre. Detta ska förenkla arbetet i att göra medlemmarna nöjda med sina båtplatser, vilket hjälper räddningstjänsten i deras arbete då det kommer sätta stopp på privata platsbyten.
+	BK 1.1
+	Sekreteraren ska få ett digitalt verktyg som förenklar arbetet med att hålla koll på vilka 
+	båtar som ska bokas på en båtplats, samt önskemål om platser.
+	BK 1.2
+Efter en båtplats är tilldelad skickas automatiskt en bekräftelse till medlemmen, där man samtidigt får möjlighet att önska om ny plats (om möjligt).
+BK 2
+Ett verktyg ska utvecklas som automatiskt kan söka igenom det nationella båtregistret för uppgifter.
+BK 3
+Kassören ska få ett system som sparar information om vilka medlemmar som betalt medlemsavgiften så det inte behövs hållas koll på fysiska kvitton.
+	BK 3.1
+Systemet ska automatiskt uppdatera medlemsavgiften då en medlem skaffar fler båtar.
+
+
